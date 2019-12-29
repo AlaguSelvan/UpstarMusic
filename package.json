@@ -6,7 +6,7 @@
   "scripts": {
     "start": "start npm run elect & webpack-dev-server",
     "elect": "electron .",
-    "startorig": "electron . & webpack-dev-server"    
+    "startorig": "electron . & webpack-dev-server"
   },
   "author": "",
   "license": "ISC",
@@ -23,7 +23,7 @@
     "lodash": "^3.10.1",
     "markdown-loader": "^0.1.7",
     "mongodb": "^2.2.11",
-    "mongoose": "^4.6.6",
+    "mongoose": "^5.8.3",
     "node-sass": "*",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
